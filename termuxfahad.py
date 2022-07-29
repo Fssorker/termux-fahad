@@ -399,11 +399,11 @@ logo = ("""\033[1;32m
    \033
 __________________×______________________
   
-  Owner   :  FAHAD SORKER
+  Owner   :  FAHAD
  
   Github   :  Termux-FAHAD
 
-  Facebook : NOPE
+  Facebook : https://www.facebook.com/profile.php?id=100083791868802
   
   Youtube : NOPE
   
